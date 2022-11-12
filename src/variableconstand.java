@@ -7,7 +7,7 @@ public class variableconstand {
 //    };
     public static void main(String[] args) {
         final int a = 666; // 在变量前添加 final 关键字，表示这是一个常量
-        a = 777; // 常量的值不允许发生修改
+//        a = 777; // 常量的值不允许发生修改
     }
 }
 
