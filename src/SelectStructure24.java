@@ -41,3 +41,4 @@ public class SelectStructure24 {
             System.out.println("不及格");
     }
 }
+
